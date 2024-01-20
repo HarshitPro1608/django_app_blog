@@ -1,2 +1,2 @@
-python manage.py collectstatic --no-input
-python manage.py migrate
+python ./django_project/manage.py collectstatic --no-input
+python ./django_project/manage.py migrate
