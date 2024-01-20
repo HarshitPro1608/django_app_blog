@@ -1,2 +1,4 @@
 django-crispy-forms
 django
+Pillow
+image
